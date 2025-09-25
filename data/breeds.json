@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Gir",
+    "description": "The Gir is a famous Indian dairy cattle breed. It is well known for its milk production and its distinctive appearance, including a rounded and domed forehead, long pendulous ears, and horns that spiral out and back.",
+    "origin": "Gir Hills and Kathiawar forests of Gujarat, India",
+    "characteristics": ["High milk yield", "Heat tolerant", "Disease resistant", "Docile temperament"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": "2",
+    "name": "Sahiwal",
+    "description": "The Sahiwal is one of the best dairy breeds of zebu cattle. It is native to the Sahiwal district of Punjab province in Pakistan, and is also found in large numbers in India.",
+    "origin": "Sahiwal district of Punjab, Pakistan",
+    "characteristics": ["High milk production", "Heat tolerant", "Good for cross-breeding", "Calm nature"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": "3",
+    "name": "Red Sindhi",
+    "description": "The Red Sindhi is a popular breed of dairy cattle originating from the Sindh province of Pakistan. They are known for their distinctive red color and excellent milk-producing capabilities.",
+    "origin": "Sindh province, Pakistan",
+    "characteristics": ["Good milk yield", "Hardy and adaptable", "Disease resistant", "Red coat color"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": "4",
+    "name": "Murrah Buffalo",
+    "description": "The Murrah buffalo is a breed of domestic water buffalo originating in Punjab and Haryana states of India. They are known for their high milk production and are often referred to as 'black gold'.",
+    "origin": "Punjab and Haryana, India",
+    "characteristics": ["High milk fat content", "Large body size", "Black coat", "Efficient feed conversion"],
+    "image": "/placeholder.svg?height=200&width=300"
+  },
+  {
+    "id": "5",
+    "name": "Jafarabadi Buffalo",
+    "description": "The Jafarabadi buffalo is a heavy breed of water buffalo found in Gujarat, India. They are known for their massive body, heavy horns, and good milk production.",
+    "origin": "Gujarat, India",
+    "characteristics": ["Massive body", "Heavy horns", "Good milk yield", "Strong and sturdy"],
+    "image": "/placeholder.svg?height=200&width=300"
+  }
+]

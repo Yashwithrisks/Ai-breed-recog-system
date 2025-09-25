@@ -1,0 +1,28 @@
+{
+  "totalCattle": 12500,
+  "totalBuffalo": 7500,
+  "predictionsToday": 320,
+  "accuracyRate": 94.5,
+  "monthlyPredictions": [
+    { "month": "Jan", "count": 1500 },
+    { "month": "Feb", "count": 1700 },
+    { "month": "Mar", "count": 1600 },
+    { "month": "Apr", "count": 1800 },
+    { "month": "May", "count": 2000 },
+    { "month": "Jun", "count": 2200 },
+    { "month": "Jul", "count": 2100 },
+    { "month": "Aug", "count": 2300 },
+    { "month": "Sep", "count": 2500 },
+    { "month": "Oct", "count": 2400 },
+    { "month": "Nov", "count": 2600 },
+    { "month": "Dec", "count": 2700 }
+  ],
+  "breedDistribution": [
+    { "breed": "Gir", "count": 3000 },
+    { "breed": "Sahiwal", "count": 2500 },
+    { "breed": "Red Sindhi", "count": 2000 },
+    { "breed": "Murrah Buffalo", "count": 4000 },
+    { "breed": "Jafarabadi Buffalo", "count": 3000 },
+    { "breed": "Other", "count": 3500 }
+  ]
+}
